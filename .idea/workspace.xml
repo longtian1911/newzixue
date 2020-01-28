@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00bb5d45-4122-4f9b-bfa4-5b3ba23731af" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WQHL81iifKbbmGwNpn2McxaD5k" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.jetbrains.php.phpunit.codeGeneration.PhpNewTestDialog.defaultLibrary" value="PHPUnit" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00bb5d45-4122-4f9b-bfa4-5b3ba23731af" name="Default Changelist" comment="" />
+      <created>1579074840584</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579074840584</updated>
+      <workItem from="1579074851608" duration="110000" />
+      <workItem from="1579141463348" duration="637000" />
+      <workItem from="1579579426908" duration="245000" />
+      <workItem from="1579579725782" duration="1829000" />
+      <workItem from="1579581616021" duration="5167000" />
+      <workItem from="1579594230361" duration="2814000" />
+      <workItem from="1579598806101" duration="399000" />
+      <workItem from="1579603290324" duration="4000" />
+      <workItem from="1579743840951" duration="15000" />
+      <workItem from="1579747080223" duration="5062000" />
+      <workItem from="1579778279229" duration="613000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="640" y="119" key="#Inspections" timestamp="1579756349527">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="640" y="119" key="#Inspections/0.23.1440.823@0.23.1440.823" timestamp="1579756349527" />
+    <state x="469" y="244" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579074875335">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="469" y="244" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.823@0.23.1440.823" timestamp="1579074875335" />
+    <state x="993" y="381" key="NewPhpFileDialog" timestamp="1579778536876">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="993" y="381" key="NewPhpFileDialog/0.23.1440.823@0.23.1440.823" timestamp="1579778536876" />
+    <state x="394" y="123" key="SettingsEditor" timestamp="1579598829829">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="394" y="123" key="SettingsEditor/0.23.1440.823@0.23.1440.823" timestamp="1579598829829" />
+    <state x="413" y="267" key="com.intellij.ide.util.TipDialog" timestamp="1579141464579">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="413" y="267" key="com.intellij.ide.util.TipDialog/0.23.1440.823@0.23.1440.823" timestamp="1579141464579" />
+  </component>
+</project>
