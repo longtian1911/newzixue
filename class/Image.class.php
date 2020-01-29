@@ -25,7 +25,7 @@ class Image{
     }
     //对外公开的缩放方法
     public function suofang(){
-
+        $this->isRandName;
     }
 }
 
