@@ -3,11 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="00bb5d45-4122-4f9b-bfa4-5b3ba23731af" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/access_log" beforeDir="false" afterPath="$PROJECT_DIR$/access_log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/class/Image.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/class/Image.class.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/error_log" beforeDir="false" afterPath="$PROJECT_DIR$/error_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/手册/PHP7中文手册(2018)的副本.chm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/手册/PHP7中文手册(2018)的副本2.chm" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +83,8 @@
       <workItem from="1580270842400" duration="320000" />
       <workItem from="1580280186900" duration="2794000" />
       <workItem from="1580294700388" duration="164000" />
-      <workItem from="1580356892216" duration="3538000" />
+      <workItem from="1580356892216" duration="3728000" />
+      <workItem from="1580380104152" duration="322000" />
     </task>
     <servers />
   </component>
