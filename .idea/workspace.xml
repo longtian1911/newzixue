@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00bb5d45-4122-4f9b-bfa4-5b3ba23731af" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/access_log" beforeDir="false" afterPath="$PROJECT_DIR$/access_log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/class/Image.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/class/Image.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/error_log" beforeDir="false" afterPath="$PROJECT_DIR$/error_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/手册/PHP7中文手册(2018)的副本.chm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/手册/PHP7中文手册(2018)的副本2.chm" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +36,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -44,7 +48,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -79,7 +83,11 @@
       <workItem from="1579743840951" duration="15000" />
       <workItem from="1579747080223" duration="5062000" />
       <workItem from="1579778279229" duration="613000" />
-      <workItem from="1580270312731" duration="110000" />
+      <workItem from="1580270312731" duration="505000" />
+      <workItem from="1580270842400" duration="320000" />
+      <workItem from="1580280186900" duration="2794000" />
+      <workItem from="1580294700388" duration="164000" />
+      <workItem from="1580356892216" duration="3538000" />
     </task>
     <servers />
   </component>
@@ -91,6 +99,10 @@
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="640" y="119" key="#Inspections/0.23.1440.823@0.23.1440.823" timestamp="1579756349527" />
+    <state x="369" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580357915145">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="369" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.823@0.23.1440.823" timestamp="1580357915145" />
     <state x="469" y="244" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579074875335">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
@@ -99,10 +111,10 @@
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="993" y="381" key="NewPhpFileDialog/0.23.1440.823@0.23.1440.823" timestamp="1579778536876" />
-    <state x="394" y="123" key="SettingsEditor" timestamp="1579598829829">
+    <state x="101" y="53" key="SettingsEditor" timestamp="1580357189336">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state x="394" y="123" key="SettingsEditor/0.23.1440.823@0.23.1440.823" timestamp="1579598829829" />
+    <state x="101" y="53" key="SettingsEditor/0.23.1440.823@0.23.1440.823" timestamp="1580357189336" />
     <state x="413" y="267" key="com.intellij.ide.util.TipDialog" timestamp="1579141464579">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
