@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00bb5d45-4122-4f9b-bfa4-5b3ba23731af" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/class/Model.class.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class/Image.class.php" beforeDir="false" afterPath="$PROJECT_DIR$/class/Image.class.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/access_log" beforeDir="false" afterPath="$PROJECT_DIR$/access_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/error_log" beforeDir="false" afterPath="$PROJECT_DIR$/error_log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +87,11 @@
       <workItem from="1580280186900" duration="2794000" />
       <workItem from="1580294700388" duration="164000" />
       <workItem from="1580356892216" duration="3728000" />
-      <workItem from="1580380104152" duration="322000" />
+      <workItem from="1580380104152" duration="1623000" />
+      <workItem from="1580444379904" duration="57000" />
+      <workItem from="1580444457076" duration="27000" />
+      <workItem from="1580444518191" duration="5958000" />
+      <workItem from="1580532224623" duration="3845000" />
     </task>
     <servers />
   </component>
@@ -104,10 +111,14 @@
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="469" y="244" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.823@0.23.1440.823" timestamp="1579074875335" />
-    <state x="993" y="381" key="NewPhpFileDialog" timestamp="1579778536876">
+    <state x="649" y="178" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1580444465645">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state x="993" y="381" key="NewPhpFileDialog/0.23.1440.823@0.23.1440.823" timestamp="1579778536876" />
+    <state x="649" y="178" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.823@0.23.1440.823" timestamp="1580444465644" />
+    <state x="993" y="381" key="NewPhpFileDialog" timestamp="1580445219931">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="993" y="381" key="NewPhpFileDialog/0.23.1440.823@0.23.1440.823" timestamp="1580445219931" />
     <state x="101" y="53" key="SettingsEditor" timestamp="1580357189336">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
@@ -116,5 +127,9 @@
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="413" y="267" key="com.intellij.ide.util.TipDialog/0.23.1440.823@0.23.1440.823" timestamp="1579141464579" />
+    <state x="691" y="344" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1580444541806">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="691" y="344" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.23.1440.823@0.23.1440.823" timestamp="1580444541806" />
   </component>
 </project>
