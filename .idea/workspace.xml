@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00bb5d45-4122-4f9b-bfa4-5b3ba23731af" name="Default Changelist" comment="数据库操作类" />
+    <list default="true" id="00bb5d45-4122-4f9b-bfa4-5b3ba23731af" name="Default Changelist" comment="数据库操作类">
+      <change afterPath="$PROJECT_DIR$/shejimoshi/单列设计模式.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/access_log" beforeDir="false" afterPath="$PROJECT_DIR$/access_log" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,7 +106,7 @@
       <workItem from="1580444457076" duration="27000" />
       <workItem from="1580444518191" duration="5958000" />
       <workItem from="1580532224623" duration="6719000" />
-      <workItem from="1580614061395" duration="2851000" />
+      <workItem from="1580614061395" duration="3653000" />
     </task>
     <servers />
   </component>
@@ -150,10 +154,10 @@
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state width="219" height="457" key="HiddenNamespacesPopup/0.23.1440.823@0.23.1440.823" timestamp="1580544868914" />
-    <state x="993" y="381" key="NewPhpFileDialog" timestamp="1580548489328">
+    <state x="993" y="381" key="NewPhpFileDialog" timestamp="1580617475803">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
-    <state x="993" y="381" key="NewPhpFileDialog/0.23.1440.823@0.23.1440.823" timestamp="1580548489328" />
+    <state x="993" y="381" key="NewPhpFileDialog/0.23.1440.823@0.23.1440.823" timestamp="1580617475803" />
     <state x="101" y="53" key="SettingsEditor" timestamp="1580357189336">
       <screen x="0" y="23" width="1440" height="823" />
     </state>

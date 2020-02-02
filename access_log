@@ -1521,3 +1521,6 @@
 127.0.0.1 - - [01/Feb/2020:13:42:30 +0800] "GET /class/Model.class.php HTTP/1.1" 200 152
 ::1 - - [01/Feb/2020:13:46:01 +0800] "POST /phpmyadmin/index.php HTTP/1.1" 200 1559
 127.0.0.1 - - [01/Feb/2020:13:47:03 +0800] "GET /class/Model.class.php HTTP/1.1" 200 178
+127.0.0.1 - - [02/Feb/2020:12:25:01 +0800] "GET /shejimoshi HTTP/1.1" 301 233
+127.0.0.1 - - [02/Feb/2020:12:25:01 +0800] "GET /shejimoshi/ HTTP/1.1" 200 945
+127.0.0.1 - - [02/Feb/2020:12:25:04 +0800] "GET /shejimoshi/%e5%8d%95%e5%88%97%e8%ae%be%e8%ae%a1%e6%a8%a1%e5%bc%8f.php HTTP/1.1" 200 -
